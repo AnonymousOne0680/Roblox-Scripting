@@ -3,4 +3,6 @@
    
    
    
-Ustalk: loadstring(game:HttpGet("https://raw.githubusercontent.com/AnonymousOne0680/Roblox-Scripting/main/UStalk.lua"))()
+Ustalk: ```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AnonymousOne0680/Roblox-Scripting/main/UStalk.lua"))()
+```
